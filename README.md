@@ -5,6 +5,6 @@ Estoy en el instituto **Puig Castellar**, actualmente estoy estudiando una FP de
 # Gustos
 Me gustan los videojuegos, el gimnasio, escuchar música, el Automovilismo y el Fútbol.
 # Videojuego favorito
-A mi me ha marcado mucho la saga de Gran Turismo, en especial los de Play Station 2 y Play Station 3, es decir de el Gran Turismo 3 a Gran Turismo 6.
+A mi me ha marcado mucho la saga de Gran Turismo, en especial los de Play Station 2 y Play Station 3, es decir del Gran Turismo 3 a Gran Turismo 6.
 ![text alternatiu](441774-guia-gran-turismo-5.webp).
-Para mis otros videojuegos favoritos y otras cosas más clica en el enlace. [Continuación](Continuación.md)
+Para ver otras cosas más dale a **Continuación**. [Continuación](Continuación.md)
