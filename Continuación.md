@@ -23,7 +23,7 @@ Me gusta un poco de todos pero mis tres grupos favoritos son:
 - Daft Punk
 
 # Automovilismo
-Principalmente me gusta la Fórmula 1 o también llamado: El gran circo
+Principalmente me gusta la Fórmula 1
 y mis pilotos favoritos de esta categoría son:
 - Carlos Sainz
 - Fernando Alonso
