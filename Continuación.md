@@ -24,7 +24,7 @@ Me gusta un poco de todos pero mis tres grupos favoritos son:
 
 # Automovilismo
 Principalmente me gusta la Fórmula 1 o también llamado: El gran circo
-Mis pilotos favoritos de esta categoría son:
+y mis pilotos favoritos de esta categoría son:
 - Carlos Sainz
 - Fernando Alonso
 - Oscar Piastri
